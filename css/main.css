@@ -1,2 +1,14 @@
 /* R l x at 2xx3 */
 /*0utl@@k, Rxx_year*/
+
+body, html {
+    padding: 0px 0px 0px 0px;
+    font-family: Verdana, sans-serif;;
+    font-size: 100%;
+  }
+h2{text-align: center;}
+* {
+  box-sizing: border-box;
+  width: auto;
+ 
+}
